@@ -1,4 +1,4 @@
-# LACQ-CEFET RJ ..............
+# LACQ-CEFET RJ
 
 A Liga Acadêmica de Computação Quântica do CEFET RJ (LACQ-CEFET) constitui-se como núcleo local, sem fins lucrativos, vinculado à Liga Nacional de Computação Quântica (LACQ Feynman), dedicado à pesquisa, ao ensino, à extensão e à divulgação de conhecimentos em computação quântica, física quântica e suas aplicações tecnológicas, promovendo a integração entre academia, sociedade e mercado.
 
